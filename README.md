@@ -1,5 +1,6 @@
 # byoc_logisim
-byoc from Richard Whipple's book using Logisim-evolution and a python assembler
+
+python assembler for the byoc in Richard Whipples book using logisim-evolution
 
 CPU Specification is based on a CPU containing:
 
