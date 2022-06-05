@@ -2,10 +2,10 @@
 byoc from Richard Whipple's book using Logisim-evolution and a python assembler
 
 CPU Specification is based on a CPU containing:
-    Program Control Unit (PCU)
-    Memory Unit (MU)
-    Arithmetic Logic Unit (ALU)
-    Clock Unit (CU)
+    * Program Control Unit (PCU)
+    * Memory Unit (MU)
+    * Arithmetic Logic Unit (ALU)
+    * Clock Unit (CU)
 
 I run the assembler like this:
 ```
